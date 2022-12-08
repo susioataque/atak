@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>prueba-ddos</title>
+    <link href="https://susioataque.github.io/atak/feed.xml" rel="self" />
+    <link href="https://susioataque.github.io/atak" />
+    <updated>2022-12-08T17:37:28+01:00</updated>
+    <author>
+        <name>DDOSs</name>
+    </author>
+    <id>https://susioataque.github.io/atak</id>
+
+    <entry>
+        <title>Prueba de ataque</title>
+        <author>
+            <name>DDOSs</name>
+        </author>
+        <link href="https://susioataque.github.io/atak/prueba-de-ataque.html"/>
+        <id>https://susioataque.github.io/atak/prueba-de-ataque.html</id>
+
+        <updated>2022-12-08T17:37:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    No seré flanqueado
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>No seré flanqueado</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

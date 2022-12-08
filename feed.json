@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "prueba-ddos",
+    "description": "",
+    "home_page_url": "https://susioataque.github.io/atak",
+    "feed_url": "https://susioataque.github.io/atak/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DDOSs"
+    },
+    "items": [
+        {
+            "id": "https://susioataque.github.io/atak/prueba-de-ataque.html",
+            "url": "https://susioataque.github.io/atak/prueba-de-ataque.html",
+            "title": "Prueba de ataque",
+            "summary": "No seré flanqueado",
+            "content_html": "<p>No seré flanqueado</p>",
+            "author": {
+                "name": "DDOSs"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-08T17:37:28+01:00",
+            "date_modified": "2022-12-08T17:37:28+01:00"
+        }
+    ]
+}

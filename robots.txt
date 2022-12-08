@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://susioataque.github.io/atak/sitemap.xml
