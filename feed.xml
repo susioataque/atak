@@ -3,7 +3,7 @@
     <title>prueba-ddos</title>
     <link href="https://susioataque.github.io/atak/feed.xml" rel="self" />
     <link href="https://susioataque.github.io/atak" />
-    <updated>2022-12-08T17:37:28+01:00</updated>
+    <updated>2022-12-08T18:41:57+01:00</updated>
     <author>
         <name>DDOSs</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://susioataque.github.io/atak/prueba-de-ataque.html"/>
         <id>https://susioataque.github.io/atak/prueba-de-ataque.html</id>
 
-        <updated>2022-12-08T17:37:28+01:00</updated>
+        <updated>2022-12-08T18:41:57+01:00</updated>
             <summary>
                 <![CDATA[
                     No seré flanqueado
@@ -25,7 +25,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>No seré flanqueado</p>
+                <p>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async="" defer="defer"></script>
+</p>
+<p>No seré flanqueado</p>
             ]]>
         </content>
     </entry>
